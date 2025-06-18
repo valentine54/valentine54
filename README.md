@@ -33,7 +33,10 @@
 - Email: [muriukivalentinem@gmail.com](mailto:muriukivalentinem@gmail.com)
 
 <!-- Uncomment the following to show your GitHub stats-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muriukivalentine&show_icons=true&locale=en&layout=compact" alt="muriukivalentine" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muchokidavid&show_icons=true&locale=en" alt="muchokidavid" /></p>
+<img src="https://yourdomain.com/animated-grid.svg" alt="GitHub animated grid" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valentine54&show_icons=true&locale=en&layout=compact" alt="valentine54" /></p>
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muchokidavid&show_icons=true&locale=en" alt="muchokidavid" /></p>-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muchokidavid&" alt="muchokidavid" /></p>
 
